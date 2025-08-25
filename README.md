@@ -10,7 +10,7 @@ It can **encode** (encrypt) and **decode** (decrypt) messages by shifting the le
 - Encode (encrypt) a message
 - Decode (decrypt) a message
 - Keeps non-alphabet characters (spaces, numbers, punctuation) unchanged
-- ASCII art logo included 😃
+- ASCII art logo included 
 - Loop to restart program until you choose to quit
 
 ---
